@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working at [Cefalo](https://www.cefalo.com/en/)
 
-- 🌱 Learning **MERN Stack and Microservice Architecture**
+- 🌱 Love **MERN Stack and System Design**
 
 - 📫 Ping me @ **adnan.sabbir2012@gmail.com**
 
