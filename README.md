@@ -1,7 +1,7 @@
 <h1 align="center">Hellooooooo!</h1>
 <h3 align="center">Thank you for visiting my profile and let me know if I can help you anyway 🤩</h3>
 
-- 🔭 I'm currently working at [Cefalo](https://www.cefalo.com/en/)
+- 🔭 I'm currently working at [Odoo](https://www.odoo.com/)
 
 - 🌱 Love **MERN Stack and System Design**
 
