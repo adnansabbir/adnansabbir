@@ -15,7 +15,7 @@ Before backend engineering, I founded BRACU Duburi, an autonomous underwater veh
 - Odoo development and localization
 - Developer tools and automation
 - Cybersecurity fundamentals and performance testing
-- Robotics, teaching, and practical problem-solving
+- Robotics, teaching, and hands-on engineering
 
 ## Current Focus
 
