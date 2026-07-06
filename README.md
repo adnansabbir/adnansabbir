@@ -32,6 +32,16 @@ Before backend engineering, I founded BRACU Duburi, an autonomous underwater veh
 - Exploring cybersecurity fundamentals through hands-on labs and notes
 - Building small tools to solve practical day-to-day engineering problems
 
+## 🏭 Production Contributions
+
+I work at **Odoo R&D**. Odoo development happens through reviewed pull requests to Odoo's public repositories.
+
+My day-job Odoo contributions are associated with my Odoo development account: [@adns-odoo](https://github.com/adns-odoo).
+
+This work is primarily around ERP localization, e-invoicing, compliance flows, production business logic, bug fixes, and Odoo module development.
+
+---
+
 ## 🌐 Let's Connect
 
 <p align="left">
